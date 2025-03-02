@@ -1,4 +1,4 @@
-
+commit: bare en backup av et ubrukelig utgangspunkt basert på forelesninger. regner med at det rakner nå.
 
 # Kommentarer
 
